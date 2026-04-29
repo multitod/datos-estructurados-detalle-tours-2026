@@ -1,0 +1,107 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TravelAgency",
+  "name": "Vive Cancún Tours & Travel",
+  "alternateName": "Vive Cancún",
+  "url": "https://vivecancun.com",
+  "logo": "https://vivecancun.com/vica2020-svg/vivecancun.svg",
+  "image": "https://vivecancun.com/imagenes/experiencias-de-viaje-vive-cancun-tours-and-travel.jpg",
+  "description": "Agencia de viajes especialista en el Caribe Mexicano y el Mundo Maya. Operando tours y excursiones en Cancún, Costa Mujeres, Puerto Morelos, Playa del Carmen, Riviera Maya, Tulum, Cozumel y Mérida desde el año 2000.",
+  "foundingDate": "2000",
+  "currenciesAccepted": "MXN, USD",
+  "paymentAccepted": "Cash, Credit Card, PayPal",
+  "priceRange": "$$",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Cancún",
+    "addressRegion": "Quintana Roo",
+    "addressCountry": "MX"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Catálogo de Tours en el Caribe Mexicano y el Mundo Maya",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Excursiones a Chichén Itzá"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tours a Cozumel El Cielo"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tours a Holbox en lancha y ferry"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tours a Isla Mujeres en catamarán y barco"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tours a Bacalar clásico y plus"
+        }
+      }
+    ]
+  },
+  "areaServed": [
+    {
+      "@type": "Place",
+      "name": "Cancún"
+    },
+    {
+      "@type": "Place",
+      "name": "Costa Mujeres"
+    },
+    {
+      "@type": "Place",
+      "name": "Puerto Morelos"
+    },
+    {
+      "@type": "Place",
+      "name": "Playa del Carmen"
+    },
+    {
+      "@type": "Place",
+      "name": "Riviera Maya"
+    },
+    {
+      "@type": "Place",
+      "name": "Cozumel"
+    },
+    {
+      "@type": "Place",
+      "name": "Tulum"
+    },
+    {
+      "@type": "Place",
+      "name": "Mérida"
+    },
+    {
+      "@type": "Place",
+      "name": "Isla Mujeres"
+    }
+  ],
+  "sameAs": [
+    "https://www.wikidata.org/wiki/Q139589491",
+    "https://www.facebook.com/toursencancun",
+    "https://www.instagram.com/vivecancunmexico/",
+    "https://www.tripadvisor.com.mx/Attraction_Review-g150807-d6834565-Reviews-Vive_Cancun_Tours_Travel-Cancun_Yucatan_Peninsula.html#REVIEWS"
+  ]
+}
+</script>
